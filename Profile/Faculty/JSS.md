@@ -6,4 +6,4 @@
 | Department | CSE/MCA/CC |
 | Email | sainijassbir@gmail.com |
 | Qualification | PhD (Pursuing), M.Tech. (IT), B.Tech. (CSE) |
-| Experience | 22Years  |
+| Experience | 22 Years  |
