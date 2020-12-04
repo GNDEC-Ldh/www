@@ -6,7 +6,11 @@
 | Designation | Professor |
 | Department | Computer Science and Engineering |
 | Email | parmindersingh@gndec.ac.in |
-| Experience | 1. Professor(G.N.D.E.C.,Ludhiana)[from 29 April, 2016 to till date] 2.Associate Professor(G.N.D.E.C.,Ludhiana)[from July 2009 to 28 April, 2016] 3.Assistant Professor(G.N.D.E.C.,Ludhiana)[from July 2006 to July 2009] 4.Lecturer(G.N.D.E.C.,Ludhiana)[from Feb 2000 to June 2006] 5.Lecturer(Baba Isher Singh Polytechnic,Moga)[from Sept 1999 to Feb 2000] | 
+| Experience | 1. Professor(G.N.D.E.C.,Ludhiana)[from 29 April, 2016 to till date] 
+2.Associate Professor(G.N.D.E.C.,Ludhiana)[from July 2009 to 28 April, 2016] 
+3.Assistant Professor(G.N.D.E.C.,Ludhiana)[from July 2006 to July 2009] 
+4.Lecturer(G.N.D.E.C.,Ludhiana)[from Feb 2000 to June 2006] 
+5.Lecturer(Baba Isher Singh Polytechnic,Moga)[from Sept 1999 to Feb 2000] | 
 | Qualification | 1. Ph.D. (CSE) [2014] 2. M.Tech(CSE)[2005] 3. B.Tech(CSE)[1999] 4. 10+2[1994] 5. Matriculation[1992] |
 | No. of Publications (Journal) | 23 |
 | No. of Publications (Conference) | 37 |
