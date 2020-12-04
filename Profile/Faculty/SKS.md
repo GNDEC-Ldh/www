@@ -19,4 +19,4 @@
 | Qualification | PhD (CSE), M.tech (CSE), B.tech (ECE)  |
 | No. of Publications (Journal) | 34 |
 | No. of Publications (Conference) | 24 |
-| Research Interest | Software Engineering, Machine Learning, Information Retrieval|
+| Research Interest | Software Engineering, Machine Learning algorithms, Information Retrieval, |
