@@ -24,5 +24,6 @@
 
 - Reading
 - Travelling
+- Playing
 
 
