@@ -1,22 +1,21 @@
 .
+├── About.md
 ├── events
-│   └── gitSDT.md
+│   ├── example.md
+│   ├── gitSDT.md
+│   └── x.md
 ├── Files
-│   ├── About.md
-│   ├── ACES
-│   ├── CED
-│   │   └── index.md
 │   ├── Departments.md
-│   ├── Examination Branch
+│   ├── SDT.md
+│   └── Societies.md
 ├── Images
-│   ├── gitSDT_Poster.jpg
+│   └── gitSDT_Poster.jpg
 ├── Profile
 │   ├── Faculty
 │   │   ├── arvind.md
 │   │   ├── JSS.md
 │   │   ├── Photos
 │   │   │   ├── sainijasbir.jpg
-│   │   │   ├── sainijasbir.png
 │   ├── Faculty.md
 │   ├── Staff
 │   │   ├── Mandeep.md
@@ -24,6 +23,8 @@
 │   │       └── Mandeep.png
 │   ├── Staff.md
 │   └── Student.md
-├── Profile.md
 ├── README.md
-└── Structure.txt
+└── Units
+    ├── ACES
+    ├── CED
+    └── Examination Branch
