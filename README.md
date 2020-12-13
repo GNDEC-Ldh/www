@@ -1,4 +1,5 @@
-### [Home](.) | [Departments](Files/Departments.md) | [Students' Societies](Files/Societies.md) | [SDT](Files/SDT.md) | [Profile](Profile.md) |
+### [Home](.) | [Departments](Units/Departments.md) | [Students'
+### Societies](Units/Societies.md) | [SDT](Files/SDT.md) | [Profile](Profile.md) |
 
 ## Welcome Home Page of Guru Nanak Dev Engineering College, Ludhiana
 
@@ -8,6 +9,8 @@ Check directory structure (folder layout and filed) by clicking:
 
 [Directory Tree](Structure.txt)
 
+
+## Help on `MarkDown`:
 
 ```markdown
 Syntax highlighted code block
@@ -21,8 +24,6 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
