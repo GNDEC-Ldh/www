@@ -1,33 +1,22 @@
 .
-├── _config.yml
 ├── events
 │   └── gitSDT.md
 ├── Files
 │   ├── About.md
 │   ├── ACES
-│   │   └── index.md
 │   ├── CED
 │   │   └── index.md
-│   ├── DefaultWebSite.md
 │   ├── Departments.md
 │   ├── Examination Branch
-│   │   └── index.md
-│   ├── SDT.md
-│   └── Societies.md
 ├── Images
 │   ├── gitSDT_Poster.jpg
-│   └── index.md
-├── LICENSE
 ├── Profile
-│   ├── demo11.md
 │   ├── Faculty
 │   │   ├── arvind.md
 │   │   ├── JSS.md
 │   │   ├── Photos
 │   │   │   ├── sainijasbir.jpg
 │   │   │   ├── sainijasbir.png
-│   │   │   └── uv.png
-│   │   └── YJS.md
 │   ├── Faculty.md
 │   ├── Staff
 │   │   ├── Mandeep.md
@@ -38,5 +27,3 @@
 ├── Profile.md
 ├── README.md
 └── Structure.txt
-
-11 directories, 28 files
