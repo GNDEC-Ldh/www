@@ -2,6 +2,13 @@
 
 ## Welcome Home Page of Guru Nanak Dev Engineering College, Ludhiana
 
+## Structure
+
+Check directory structure (folder layout and filed) by clicking:
+
+[Directory Tree](Structure.txt)
+
+
 ```markdown
 Syntax highlighted code block
 
