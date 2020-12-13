@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+
+theme: jekyll-theme-minimal
+logo: https://gne-ldh.github.io/main/Files/Images/gneLogo.jpeg
+show_downloads: false
