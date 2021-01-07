@@ -1,6 +1,6 @@
 ## Davinder Singh
 
-### Clerk
+### Clerk, Examination
 
 ![Display picture](Photos/Davinder.png)
 
